@@ -3,7 +3,7 @@ import bookingIcon from '../../../public/assets/bookingIcon.png'
 
 const FeatureCard = () => {
     return (
-        <div className='my-5'>
+        <div className='my-5 px-15'>
             <section>
                 <h1 className='font-mono text-2xl font-bold py-5'>How it Works</h1>
             </section>
