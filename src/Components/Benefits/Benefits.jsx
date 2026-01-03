@@ -7,7 +7,7 @@ const Benefits = () => {
     return (
         <div className='mt-15'>
             {/* Card 1 */}
-            <div className='grid grid-cols-4 px-15 bg-[#ffffff] rounded-2xl py-10 mb-10'>
+            <div className='grid grid-cols-4 px-15 mx-15 bg-[#ffffff]  rounded-2xl py-10 mb-10'>
                 <div className='col-span-1 border-r-2 border-[#03373d]'>
                     <img className='h-[150px]' src={safeDelivery} alt="" />
                 </div>

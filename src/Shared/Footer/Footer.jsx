@@ -5,7 +5,7 @@ import Logo from '../ZapShiftLogo/Logo';
 const Footer = () => {
     return (
         <div>
-            <footer className="footer bg-[#ffffff] text-black footer-horizontal footer-center shadow-sm rounded-2xl  p-10">
+            <footer className="footer bg-[#0b0b0b] text-white footer-horizontal footer-center shadow-sm rounded-2xl  p-10">
                 <aside>
                     <Logo />
                     <p className="font-bold">
